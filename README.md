@@ -96,6 +96,18 @@ Entrega 1 - 01/10/2025
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/APS1-%E2%80%90-ENTREGA-1
 
+Entrega 2 - 08/11/2025
+
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Entrega-2-%E2%80%90-08-11-2025
+
+Entrega 3 - 19/11/2025
+
+*repositório + protótipo
+
+Entrega 4 - 03/122025
+
+*seminário/slides + resumo expandido
+
 
 ### Criterios de aceite
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE
