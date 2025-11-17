@@ -257,6 +257,10 @@ link landing page
 
      1- modelagem UML
 
+     VIDE TEMPLATE 2 
+
+     https://drive.google.com/drive/folders/1wMfd4j2soDd-TCAzrkDX4LjO0kTRfr6w
+
      2- Modelagem BD - DER + modelo de dados no workbench
 
      3- Resultados da entrevista com usuario
