@@ -100,7 +100,7 @@ Aplicativo móvel que utiliza georreferenciamento para mapear e promover o **com
 
 
 
-### Descrição do produto
+
 
 **ACHOU!** - Plataforma digital georreferenciada voltada à **economia de proximidade**.
 
