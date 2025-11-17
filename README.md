@@ -96,6 +96,10 @@ Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione
 
 ### Escopo do produto
 
+Aplicativo móvel que utiliza georreferenciamento para mapear e promover o **comércio e serviços de base hiperlocal**. Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveniência**, visa conectar consumidores à oferta de produtos/serviços mais próxima e relevante.
+
+
+
 ### Descrição do produto
 
 **ACHOU!** - Plataforma digital georreferenciada voltada à **economia de proximidade**.
@@ -153,6 +157,8 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%
 https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing
 
 ## UI Desing (guia de estilo)
+
+[Guia de Estilo] (https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
 
 ## Prototipação do MVP 
 
