@@ -158,24 +158,7 @@ criar interfaces e links entre as telas
 
 FIGMA MAKE
 
-https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/Interactive-Flowchart-Prototype?node-id=0-4&t=bu5QzgIJvBJ8hkvK-0
-
---------------------------------------------------------------------------------------------
-
-
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/9f63f017-8ad9-4758-9c47-be5610c610c7" />
-
-
-https://www.figma.com/make/uytUHDlEtuIt0P29Wk3lkC/Interactive-Prototype-Design?node-id=0-1&p=f&t=1u7uRkjX7qxGMbPt-0&fullscreen=1
-
-
-GITHUB PAGES
-
-<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5ad35e42-30b1-47a5-b286-2a7300b8089e" />
-
-
-
-https://yeddamc.github.io/ACHOU-prototipo/
+https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0
 
 
 [↩️ Voltar ao Sumário](#sumário)
