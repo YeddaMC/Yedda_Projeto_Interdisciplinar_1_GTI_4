@@ -7,65 +7,6 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 <img width="173" height="168" alt="ACHOU_LOGO" src="https://github.com/user-attachments/assets/dee0335e-b6b1-498d-a1ec-5e09df1d70a5" />
 
-## Sumário 
-
-### [1 - IDENTIFICAÇÃO](#1---identificacao)
-
-### [2 - CONCEPÇÃO](#2---concepcao)
-- [Descrição da visão geral do projeto](#descricao-da-visao-geral-do-projeto)
-- [Objetivo do projeto](#objetivo-do-projeto)
-
-- [Escopo do produto](#escopo-do-produto)
-
-- https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/_new
-
-- 
-- [Descrição do produto](#descricao-do-produto)
-- [Principais entregas](#principais-entregas)
-- [Critérios de aceite](#criterios-de-aceite)
-- [Matriz de risco](#matriz-de-risco)
-
-### [3 - DESIGN DO SOFTWARE](#3---design-do-software)
-- [Design centrado no usuário](#design-centrado-no-usuario)
-- [Fluxo do Formulário de Pesquisa](#fluxo-do-formulario-de-pesquisa)
-- [Personas e mapa de empatia](#personas-e-mapa-de-empatia)
-- [Storyboard](#storyboard)
-- [UI Desing (guia de estilo)](#ui-desing-guia-de-estilo)
-- [Prototipação do MVP](#prototipacao-do-mvp)
-    - [Estudo do fluxo das telas](#estudo-do-fluxo-das-telas)
-    - [Wireframe inicial](#wireframe-inicial)
-    - [PROTOTIPO](#prototipo)
-
-### [4 - DESENVOLVIMENTO](#4---desenvolvimento)
-- [a) Processo de software (kanban...)](#a-processo-de-software-kanban...)
-- [b) Recursos utilizados (tecnologias, ferramentas de apoio, linguagens, equipam, rede)](#b-recursos-utilizados-tecnologias-ferramentas-de-apoio-linguagens-equipam-rede)
-- [c) Resultados esperados](#c-resultados-esperados)
-- [d) Instruções para download e execução](#d-instrucoes-para-download-e-execucao)
-- [e) Licença de uso e distribuição.](#e-licenca-de-uso-e-distribuicao)
-
-### [4\* ESTRATÉGIA DE MARKETING](#4-estrategia-de-marketing)
-
-### [5\* GESTÃO DO PROJETO (ARQUIVOS)](#5-gestao-do-projeto-arquivos)
-- [a) contexto sequenciador mvp e incrementos](#a-contexto-sequenciador-mvp-e-incrementos)
-- [b) detalhamento de atividades](#b-detalhamneto-de-atividades)
-- [c) cronograma mvp e incrementos](#c-cronograma-mvp-e-incrementos)
-
-### [6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO](#6-metricas-de-monitoracao-e-acompanhamento)
-
-### [7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS](#7-relatorio-de-encerramento-e-licoes-aprendidas)
-- [a) Relatório Técnico](#a-relatorio-tecnico)
-- [b) Plano de negócios](#b-plano-de-negocios)
-- [c) Artigo](#c-artigo)
-- [d) Extras](#d-extras)
-
-### [9\* PASTA DE EXTENSÃO](#9-pasta-de-extensao)
-- [Documentação das atividades de extensão.](#documentacao-das-atividades-de-extensao)
-
-### [10 SUMÁRIO: Análise PESTEL e Plano de Ação SWOT](#10-sumario-analise-pestel-e-plano-de-acao-swot)
-
-
-### [11 PLANO DE MARKETING](#11-plano-de-marketing)
-
 
 
 
