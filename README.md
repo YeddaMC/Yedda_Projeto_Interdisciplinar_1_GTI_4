@@ -1,3 +1,5 @@
+&copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
+
 # Yedda---Projeto-Integrador---GTI
 Repositorio criado para registrar o desenvolvimento do projeto integrador
 
@@ -177,8 +179,11 @@ https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=
 ### e) Licença de uso e distribuiçao.
 
 
-🌟 Licença Creative Commons — Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+# 🌟 Licença Creative Commons — Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
 
+Este projeto está licenciado sob a CC BY-NC-SA 4.0. Respeite os termos abaixo ao utilizar o código/protótipo.
+
+---
 
 ### 🛑 O que a Licença CC BY-NC-SA 4.0 PROÍBE
 
@@ -187,15 +192,23 @@ https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=
 | **Uso Comercial (NC)** | O código/protótipo **NÃO pode ser usado para fins comerciais** (venda, prestação de serviço pago, incorporação em produto comercial, etc.) sem permissão expressa dos autores. |
 | **Remoção de Créditos** | Não é permitido remover ou ofuscar os avisos de *copyright* e licença dos autores. |
 
+### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE e EXIGE
 
-### ✅ O que a Licença CC BY-NC-SA 4.0 PERMITE 
-
-| Ação | Descrição |
+| Elemento | Descrição |
 | :--- | :--- |
+| **Crédito (BY)** | É **obrigatório** conceder o **crédito** apropriado aos autores originais em todas as cópias e obras derivadas (Atribuição). |
 | **Modificação** | O código pode ser modificado, alterado e aprimorado. |
 | **Distribuição e Cópia** | O código pode ser distribuído e copiado livremente. |
-| **Compartilha Igual (SA)** | Se alguém modificar e redistribuir o trabalho, **deve** usar a mesma licença CC BY-NC-SA 4.0, mantendo a restrição de uso não comercial. |
-| **Crédito (BY)** | Exige que seja dado o **crédito** apropriado aos autores originais em todas as cópias e obras derivadas. |
+| **Compartilha Igual (SA)** | Se alguém modificar, adaptar ou redistribuir o trabalho, **deve** fazê-lo sob a **mesma licença CC BY-NC-SA 4.0**, mantendo todas as restrições originais. |
+
+---
+
+### ✍️ Como Fornecer Atribuição (BY)
+
+Para cumprir a exigência de atribuição, inclua a seguinte informação em um local visível do seu projeto/documentação:
+
+> &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
+
 
 
 [↩️ Voltar ao Sumário](#sumário)
