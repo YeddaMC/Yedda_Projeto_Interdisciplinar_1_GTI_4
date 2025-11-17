@@ -12,33 +12,37 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 ## 1 - IDENTIFICAÇÃO
 
-Identidade Visual do Projeto
+1a. Identidade Visual do Projeto
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/IDENTIDADE-VISUAL
 
 
-Redes Sociais do Projeto
+1b. Redes Sociais do Projeto
 
+
+1c. Equipe:
 
 Yedda Maria Carvalahais
 
-Data de criação do projeto : Setembro/2025
+1d. Data de criação do projeto :
+
+Setembro/2025
 
 [↩️ Voltar ao Sumário](#sumário)
 
 ## 2 - CONCEPÇÃO
 
-### Descrição da visão geral do projeto :
+### 2a. Descrição da visão geral do projeto :
 
 Este projeto visa a criação e desenvolvimento de uma aplicação com design centrado no usuário que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco é na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e os moradores do seu entorno imediato. O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, alinhado aos princípios da Cidade de 15 Minutos, como meio para aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
 
-### Objetivo do projeto
+### 2b. Objetivo do projeto
 
 Desenvolver uma aplicação digital com Design Centrado no Usuário que funcione como um elo entre o comércio de proximidade e os moradores em um contexto hiperlocal, visando impulsionar o comercio de base da região, a transformação digital dos pequenos negócios e a conveniência alinhada aos princípios da Cidade de 15 Minutos.
 
-### Escopo do produto
+### 2c. Escopo do produto
 
-
+#### 2c.1 Descrição
 **ACHOU!** - Plataforma digital georreferenciada voltada à **economia de proximidade**.
 
 Aplicativo móvel que utiliza georreferenciamento para mapear e promover o **comércio e serviços de base hiperlocal**.
@@ -47,7 +51,7 @@ Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveni
 
 
 
-### Principais entregas
+#### 2c.2 Principais entregas
 Entrega 1 - 01/10/2025
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/APS1-%E2%80%90-ENTREGA-1
@@ -65,11 +69,11 @@ Entrega 4 - 03/122025
 *seminário/slides + resumo expandido
 
 
-### Criterios de aceite
+#### 2c.3 Criterios de aceite
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE
 
 
-### Matriz de risco
+#### 2c.4 Matriz de risco
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
@@ -77,45 +81,46 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
 # 3 - Design do Software
 
-## Design centrado no usuario
+## 3a.Design centrado no usuario
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Design-centrado-no-usu%C3%A1rio
 
 
-## Fluxo do Formulário de Pesquisa
+## 3a.1 Fluxo do Formulário de Pesquisa
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa
 
-## Personas e mapa de empatia
+## 3b. Personas e mapa de empatia
 
 PERSONA 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-(costureira-do-bairro)
 
 
 
-## Storyboard
+## 3c. Storyboard
 https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing
 
-## UI Desing (guia de estilo)
+## 3d. UI Desing (guia de estilo)
 
 [Guia de Estilo] (https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
 
-## Prototipação do MVP 
+## 3.e.  Prototipação do MVP 
 
-### Estudo do fluxo das telas
+### 3.e.1 Estudo do fluxo das telas
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%C3%B3tipo
 
-### wireframe inicial
+### 3.e.2  wireframe inicial
 
 
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 
-roteiro de teste baseado nos criterios de aceite
+3.e.1 Roteiro de teste baseado nos criterios de aceite
 
-criar interfaces e links entre as telas
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Testes
 
-### PROTOTIPO
+
+## 3.e.4 PROTOTIPO
 
 FIGMA MAKE
 
@@ -127,15 +132,15 @@ https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=
 
 ## 4 - Desenvolvimento
 
-### a) Processo de software (kanban...)
+### 4a) Processo de software (kanban...)
 
-### b) Recursos utilizados (tecnologias,ferramentas de apoio, linguagens,equipam, rede)
+###4 b) Recursos utilizados (tecnologias,ferramentas de apoio, linguagens,equipam, rede)
 
-### c) Resultados esperados
+### 4c) Resultados esperados
 
-### d) Instruçoes para download e execução
+### 4d) Instruçoes para download e execução
 
-### e) Licença de uso e distribuiçao.
+### 4e) Licença de uso e distribuiçao.
 
 
 # 🌟 Licença Creative Commons — Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)
@@ -173,7 +178,7 @@ Para cumprir a exigência de atribuição, inclua a seguinte informação em um 
 [↩️ Voltar ao Sumário](#sumário)
 
 
-### 4\* ESTRATÉGIA DE MARKETING
+### 5. ESTRATÉGIA DE MARKETING
 
 link landing page
 
@@ -181,45 +186,48 @@ link landing page
 [↩️ Voltar ao Sumário](#sumário)
 
 
-### 5\* GESTÃO DO PROJETO (ARQUIVOS)
+### 6. GESTÃO DO PROJETO (ARQUIVOS)
 
-#### a) contexto sequenciador mvp e incrementos
+#### 6a) contexto sequenciador mvp e incrementos
 
-#### b) detalhamneto de atividades
+#### 6b) detalhamneto de atividades
 
-#### c) cronograma mvp e incrementos
+#### 6c) cronograma mvp e incrementos
 
+https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRONOGRAMA-PMV
 
-[↩️ Voltar ao Sumário](#sumário)
-
-
-### 6\* MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO
 
 
 [↩️ Voltar ao Sumário](#sumário)
 
 
-### 7\* RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS
+### 7. MÉTRICAS DE MONITORAÇÃO E ACOMPANHAMENTO
 
-#### a) Relatório Técnico
 
-#### b) Plano de negócios
+[↩️ Voltar ao Sumário](#sumário)
 
-#### c) Artigo
 
-#### d) Extras
+### 8. RELATÓRIO DE ENCERRAMENTO E LIÇÕES APRENDIDAS
 
-     1- modelagem UML
+#### 8a) Relatório Técnico
+
+#### 8b) Plano de negócios
+
+#### 8c) Artigo
+
+#### 8d) Extras
+
+     8d.1- modelagem UML
      [VIDE TEMPLATE 2]( https://drive.google.com/drive/folders/1wMfd4j2soDd-TCAzrkDX4LjO0kTRfr6w)
 
     
 
      
-     2- Modelagem BD - DER + modelo de dados no workbench
+     8d.2- Modelagem BD - DER + modelo de dados no workbench
 
-     3- Resultados da entrevista com usuario
+     8d.3- Resultados da entrevista com usuario
 
-     4- [Termo de livre consentimento](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE)
+     8d.4- [Termo de livre consentimento](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE)
 
      https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE
      
