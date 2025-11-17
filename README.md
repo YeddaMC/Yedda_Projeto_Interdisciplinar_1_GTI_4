@@ -256,16 +256,18 @@ link landing page
 #### d) Extras
 
      1- modelagem UML
+     [VIDE TEMPLATE 2]( https://drive.google.com/drive/folders/1wMfd4j2soDd-TCAzrkDX4LjO0kTRfr6w)
 
-     VIDE TEMPLATE 2 
+    
 
-     https://drive.google.com/drive/folders/1wMfd4j2soDd-TCAzrkDX4LjO0kTRfr6w
-
+     
      2- Modelagem BD - DER + modelo de dados no workbench
 
      3- Resultados da entrevista com usuario
 
-     4- Termo de livre consentimento
+     4- [Termo de livre consentimento](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE)
+
+     https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/TERMO-DE-ACEITE
      
 
 [↩️ Voltar ao Sumário](#sumário)
