@@ -197,9 +197,7 @@ link landing page
 
 #### 6b) detalhamneto de atividades
 
-#### 6c) cronograma mvp e incrementos
-
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRONOGRAMA-PMV
+#### 6c) [Cronograma - mvp e incrementos](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRONOGRAMA-PMV)
 
 
 
