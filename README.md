@@ -98,9 +98,15 @@ Entrega 4 - 03/122025
 ## 3a.1 [Fluxo do Formulário de Pesquisa](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa) 
 
 
-## 3b. Personas e mapa de empatia
+## 3b.
 
-[PERSONA](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
+[Persona](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
+
+ e
+ 
+ [mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
+
+
 
 
 
@@ -125,9 +131,18 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 
 ## 4 - Desenvolvimento
 
-### 4a) Processo de software (kanban...)
+### 4a) Processo de software [KANBAN - GITHUB PROJECTS](https://github.com/users/YeddaMC/projects/8/views/3)
 
-###4 b) Recursos utilizados (tecnologias,ferramentas de apoio, linguagens,equipam, rede)
+--------------------------------------------------------------------------------------------
+###4 b) Recursos utilizados (tecnologias,ferramentas de apoio, linguagens,equipam, rede)----------A metodologia adotada para o desenvolvimento da plataforma ACHOU!, conforme preconiza a Política Nacional de Extensão Universitária, prioriza **metodologias participativas** e o diálogo com os atores sociais. O método central para a criação do produto tecnológico será o **Design Thinking (DT)**, com foco no **Design Centrado no Usuário (DCU)**. Essa abordagem se baseia nas necessidades, capacidades e contexto do usuário (NORMAN, 2013).-------------- ADICIONAR LINGUAGEM UML E PALTAFORMA.....PROJEXTS DO GITHUB....
+----------------------------------------------------------
+
+Para operacionalizar o DCU, foram utilizadas ferramentas específicas, como:
+
+* **Pesquisa de Campo:** Para coleta de dados e validação das necessidades do público-alvo.
+* **Criação de Personas e Mapa de Empatia:** Para aprofundar a compreensão das motivações e desafios dos usuários (empreendedores e clientes).
+* **Storyboard:** Para visualização do cenário de uso e antecipação do fluxo de interação do usuário com o aplicativo.
+* **Prototipação de Alta Fidelidade:** Para validação da usabilidade e dos fluxos antes do desenvolvimento final.
 
 ### 4c) Resultados esperados
 
@@ -168,7 +183,6 @@ Para cumprir a exigência de atribuição, inclua a seguinte informação em um 
 
 
 
-[↩️ Voltar ao Sumário](#sumário)
 
 
 ### 5. ESTRATÉGIA DE MARKETING
@@ -176,7 +190,7 @@ Para cumprir a exigência de atribuição, inclua a seguinte informação em um 
 link landing page
 
 
-[↩️ Voltar ao Sumário](#sumário)
+
 
 
 ### 6. GESTÃO DO PROJETO (ARQUIVOS)
