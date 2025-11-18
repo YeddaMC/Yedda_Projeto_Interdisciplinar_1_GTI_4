@@ -134,8 +134,9 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 ### 4a) Processo de software [KANBAN - GITHUB PROJECTS](https://github.com/users/YeddaMC/projects/8/views/3)
 
 --------------------------------------------------------------------------------------------
-###4 b) Recursos utilizados (tecnologias,ferramentas de apoio, linguagens,equipam, rede)----------A metodologia adotada para o desenvolvimento da plataforma ACHOU!, conforme preconiza a Política Nacional de Extensão Universitária, prioriza **metodologias participativas** e o diálogo com os atores sociais. O método central para a criação do produto tecnológico será o **Design Thinking (DT)**, com foco no **Design Centrado no Usuário (DCU)**. Essa abordagem se baseia nas necessidades, capacidades e contexto do usuário (NORMAN, 2013).-------------- ADICIONAR LINGUAGEM UML E PALTAFORMA.....PROJEXTS DO GITHUB....
-----------------------------------------------------------
+###4 b) [Recursos Utilizados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Recursos-Utilizados) 
+
+
 
 Para operacionalizar o DCU, foram utilizadas ferramentas específicas, como:
 
@@ -144,7 +145,7 @@ Para operacionalizar o DCU, foram utilizadas ferramentas específicas, como:
 * **Storyboard:** Para visualização do cenário de uso e antecipação do fluxo de interação do usuário com o aplicativo.
 * **Prototipação de Alta Fidelidade:** Para validação da usabilidade e dos fluxos antes do desenvolvimento final.
 
-### 4c) Resultados esperados
+### 4c) [Resultados Esperados](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Resultados-Esperados--%E2%80%90-P.I.1-%E2%80%90-GTI4-%E2%80%90-2025.2)
 
 ### 4d) Instruçoes para download e execução
 
