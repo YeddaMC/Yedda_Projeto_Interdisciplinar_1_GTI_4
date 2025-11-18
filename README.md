@@ -15,9 +15,9 @@ Repositorio criado para registrar o desenvolvimento do projeto integrador
 
 ## 1 - IDENTIFICAÇÃO
 
-1a. Identidade Visual do Projeto
+1a. [Identidade Visual do Projeto](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/IDENTIDADE-VISUAL) 
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/IDENTIDADE-VISUAL
+
 
 
 1b. Redes Sociais do Projeto
