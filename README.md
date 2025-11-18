@@ -1,9 +1,9 @@
 &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
-# Yedda---Projeto-Integrador---GTI---IFPR
+# Yedda - Projeto Integrador - GTI - IFPR
 Repositorio criado para registrar o desenvolvimento do projeto integrador
 
-# PROJETO-INTEGRADOR-GTI   
+
 
 # ACHOU! 
 ## Plataforma digital georreferenciada voltada a economia de proximidade.
@@ -64,7 +64,7 @@ Fundamentado nos conceitos de **Cidades de 15 Minutos** e **comércio de conveni
 
 Entrega 3 - 19/11/2025
 
-[REPOSITÓRIO](url) 
+[REPOSITÓRIO GITHUB](url) 
 
 
 [PROTÓTIPO](https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0) 
@@ -105,34 +105,22 @@ Entrega 4 - 03/122025
 
 
 ## 3c. [Storyboard](https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing)
-## 3d. UI Desing (guia de estilo)
 
-[Guia de Estilo] (https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
+## 3d.[ UI Desing - guia de estilo](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
 
 ## 3.e.  Prototipação do MVP 
 
-### 3.e.1 Estudo do fluxo das telas
+### 3.e.1 [Estudo do fluxo das telas](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%C3%B3tipo)
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Estudo-do-Prot%C3%B3tipo
-
+------------
 ### 3.e.2  wireframe inicial
-
-
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
+------------
 
-## 3.e.1 Roteiro de teste baseado nos criterios de aceite
-
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Testes
-
-
-## 3.e.4 PROTOTIPO
-
-FIGMA MAKE
-
-https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0
+## 3.e.1 [Roteiro de teste baseado nos criterios de aceite](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Testes)
 
 
-[↩️ Voltar ao Sumário](#sumário)
+## 3.e.4 [PROTOTIPO](https://www.figma.com/make/p6LCeeGY55gV06XwpGHYJ3/PROTOTIPO-ACHOU?node-id=0-1&p=f&t=Isfl7iOyqCO1fSCB-0)
 
 
 ## 4 - Desenvolvimento
