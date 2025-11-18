@@ -100,11 +100,11 @@ Entrega 4 - 03/122025
 
 ## 3b.
 
-[Persona](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
+## [Persona](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
 
  e
  
- [mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
+## [mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA)
 
 
 
