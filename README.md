@@ -31,7 +31,7 @@ Yedda Maria Carvalahais
 
 Setembro/2025
 
-[↩️ Voltar ao Sumário](#sumário)
+
 
 ## 2 - CONCEPÇÃO
 
@@ -71,44 +71,40 @@ Entrega 3 - 19/11/2025
 
 
 
-*repositório + protótipo
 
 Entrega 4 - 03/122025
 
-*seminário/slides + resumo expandido
+[seminário/slides](url) 
 
 
-#### 2c.3 Criterios de aceite
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE
+[resumo expandido](url) 
 
 
-#### 2c.4 Matriz de risco
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO
 
-[↩️ Voltar ao Sumário](#sumário)
+
+#### 2c.3 [Criterios de aceite](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/CRIT%C3%89RIOS-DE-ACEITE) 
+
+
+#### 2c.4 [Matriz de risco](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MATRIZ-DE-RISCO) 
+
 
 # 3 - Design do Software
 
-## 3a.Design centrado no usuario
-
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Design-centrado-no-usu%C3%A1rio
+## 3a. [Design centrado no usuario](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Design-centrado-no-usu%C3%A1rio) 
 
 
-## 3a.1 Fluxo do Formulário de Pesquisa
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa
+## 3a.1 [Fluxo do Formulário de Pesquisa](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Fluxo-do-Formul%C3%A1rio-de-Pesquisa) 
+
 
 ## 3b. Personas e mapa de empatia
 
-PERSONA 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-(costureira-do-bairro)
+[PERSONA](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Persona-%E2%80%90-Maria-costureira-do-bairro)
 
 
 
-## 3c. Storyboard
-https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing
-
+## 3c. [Storyboard](https://docs.google.com/document/d/1FvsqWmYhRpIuscLyTkYgx9NKu5ET2xmYP8lAn9U5Yck/edit?usp=sharing)
 ## 3d. UI Desing (guia de estilo)
 
 [Guia de Estilo] (https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/GUIA-DE-ESTILO-%E2%80%90-UI-Desing)
