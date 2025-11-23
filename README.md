@@ -125,12 +125,8 @@ ________________________________________________________________________________
 
 ------------
 
-#correçao wireframes    
+## [Estudo De Telas _ WIREFRAMES](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/WIREFRAMES-%E2%80%90-Estudo_de_telas)   
 
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/WIREFRAMES-%E2%80%90-Estudo_de_telas
-
-### 3.e.2  wireframe inicial
-https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/wireframes
 ------------
 
 ## 3.e.1 [Roteiro de teste baseado nos criterios de aceite](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Testes)
