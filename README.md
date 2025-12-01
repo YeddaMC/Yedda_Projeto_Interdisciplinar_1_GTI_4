@@ -219,7 +219,7 @@ ________________________________________________________________________________
 
 #### 8a) Relatório Técnico
 
-#### 8b) Plano de negócios
+#### 8b) Plano de negócios - EM DESENVOLVIMENTO
 
 #### 8c) Artigo
 
@@ -230,7 +230,7 @@ ________________________________________________________________________________
     
 
      
-     8d.2- Modelagem BD - DER + modelo de dados no workbench
+     8d.2- Modelagem BD - DER + modelo de dados no workbench - EM DESENVOLVIMENTO
 
      8d.3- Resultados da entrevista com usuario
 
