@@ -79,10 +79,10 @@ Entrega 3 - 19/11/2025
 
 Entrega 4 - 03/122025
 
-[seminário/slides](url) 
+[WIPEX/slides](https://docs.google.com/presentation/d/1b19IPFd1_wSGLc6b-LkxMR3NIy1SL-6P_U1Be8F0NEU/edit?slide=id.p1#slide=id.p1) 
 
 
-[resumo expandido](url) 
+[Resumo](https://drive.google.com/drive/folders/1pnpDofDF4the0xLtTpcXhkvnpCBDxuiJ) 
 
 
 
