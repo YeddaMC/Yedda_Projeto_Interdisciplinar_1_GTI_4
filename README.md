@@ -175,7 +175,7 @@ ________________________________________________________________________________
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PESTEL-e-Plano-de-A%C3%A7%C3%A3o-SWOT
 
 
-[↩️ Voltar ao Sumário](#sumário)
+
 
 
 ### 5.2 Plano de Marketing
@@ -184,7 +184,7 @@ https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/An%C3%A1lise-PE
 https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/Plano-de-Marketing
 
 
-[↩️ Voltar ao Sumário](#sumário)
+
 
 
 5.3 link landing page - EM DESENVOLVIMENTO
