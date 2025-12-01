@@ -1,7 +1,7 @@
 &copy; 2025 YEDDA MARIA CARVALHAIS. Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.pt).
 
-# Yedda - Projeto Integrador - GTI - IFPR
-Repositorio criado para registrar o desenvolvimento do projeto integrador
+# Yedda - Projeto Interdisciplinar 1 - GTI 4 - IFPR
+Repositorio criado para registrar o desenvolvimento do projeto interdisciplinar 1.
 
 
 
