@@ -38,7 +38,11 @@ ________________________________________________________________________________
 ### 2a. Descrição da visão geral do projeto :
 
 
-O modo de vida contemporâneo valoriza soluções de proximidade para a vida cotidiana, incluindo aí hábitos de consumo que se voltam para o "comércio de bairro" (proximidade-conveniência), inclusive com grandes redes se voltando para esse segmento de mercado. Este projeto visa a criação e desenvolvimento de uma aplicação com design centrado no usuário que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco é na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e as pessoas que residem, trabalham ou estudam no seu entorno imediato. O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, alinhado aos princípios da Cidade de 15 Minutos, como meio para aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+O modo de vida contemporâneo valoriza soluções de proximidade para a vida cotidiana, incluindo hábitos de consumo voltados para o "comércio de bairro" (proximidade e conveniência), modelo de negócios em ascensão, inclusive com grandes redes se direcionando para esse segmento de mercado.
+Este projeto visa à criação e ao desenvolvimento de uma aplicação com design centrado no usuário, que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco está na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e as pessoas que residem, trabalham ou estudam em seu entorno imediato.
+O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, em convergência com o conceito urbanístico da Cidade de 15 Minutos, que busca diminuir a dependência do automóvel e melhorar a qualidade de vida urbana.
+Assim, pretende-se aumentar a visibilidade e a eficiência desses negócios, promovendo o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+
 
 
 ### 2b. Objetivo do projeto
