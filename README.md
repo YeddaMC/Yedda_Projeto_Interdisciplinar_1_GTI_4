@@ -84,7 +84,8 @@ Entrega 3 - 19/11/2025
 Entrega 4 - 03/122025
 
 [WIPEX/slides](https://drive.google.com/file/d/1b19IPFd1_wSGLc6b-LkxMR3NIy1SL-6P_U1Be8F0NEU/view) 
-[Slides PDF](https://drive.google.com/drive/folders/1pnpDofDF4the0xLtTpcXhkvnpCBDxuiJ)
+
+
 
 [IV WIPEX](https://achou-plataforma-digital-4vcpy0r.gamma.site/)
 
