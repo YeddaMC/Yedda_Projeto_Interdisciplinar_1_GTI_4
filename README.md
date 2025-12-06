@@ -41,7 +41,7 @@ ________________________________________________________________________________
 O modo de vida contemporâneo valoriza soluções de proximidade para a vida cotidiana, incluindo hábitos de consumo voltados para o "comércio de bairro" (proximidade e conveniência), modelo de negócios em ascensão, inclusive com grandes redes se direcionando para esse segmento de mercado.
 Este projeto visa à criação e ao desenvolvimento de uma aplicação com design centrado no usuário, que atenda às necessidades de consumo e serviços em um contexto hiperlocal. O foco está na experiência fluida, propondo facilitar a conexão entre pequenos comerciantes e as pessoas que residem, trabalham ou estudam em seu entorno imediato.
 O objetivo é contribuir para a vitalidade econômica da região e apoiar a adoção de um modelo urbano mais sustentável e acessível, em convergência com o conceito urbanístico da Cidade de 15 Minutos, que busca diminuir a dependência do automóvel e melhorar a qualidade de vida urbana.
-Assim, pretende-se aumentar a visibilidade e a eficiência desses negócios, promovendo a visibilidade dos pequenos negócios, o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
+Assim, pretende-se aumentar a visibilidade, a inclusão digital e a eficiência desses pequenos negócios, o desenvolvimento local, a sustentabilidade e a conveniência para a comunidade.
 
 
 
