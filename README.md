@@ -8,8 +8,37 @@ EQUIPE :
 Mary Ana Carvalhais Carneiro
 
 Yedda Maria Carvalhais
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+📁  ENTREGAS
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+ SPRINT 0
+ 
+
+ 📁 ENTREGAS SPRINT 0: ATUALIZAÇÃO E PLANEJAMENTO
+
+Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de fundação do projeto:
 
 
+### 📄 DOCUMENTAÇÃO E PLANEJAMENTO
+* REVISÃO ENTREGAS E DOCUMENTOS PROJETO INTERDISCIPLINAR 1 
+* [MAPEAMENTO DE TAREFAS (ÁRVORE)](https://github.com/users/YeddaMC/projects/9/views/5?pane=issue&itemId=162578060)
+* [PRODUCT BACKLOG HIERÁRQUICO](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-%E2%80%90-VERSIONAMENTO_SPRINT_0#2-project-backlog-vis%C3%A3o-geral)
+* [SPRINT BACKLOG](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0_-SPRINT-_-BACKLOG)
+* [RELAÇÃO DE HISTÓRIAS DE USUÁRIO (US)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-RELA%C3%87%C3%83O-DE-HIST%C3%93RIAS-DE-USU%C3%81RIO-(US))
+* [MATRIZ DE RASTREABILIDADE](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-_-MATRIZ-DE-RASTREABILIDADE)
+* [DOCUMENTO VERSIONADO (V2.0)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-%E2%80%90-VERSIONAMENTO_SPRINT_0)
+
+* [KANBAN](https://github.com/users/YeddaMC/projects/9/views/5)
+* [ROADMAP](https://github.com/users/YeddaMC/projects/9/views/7)
+* [TABELA GERAL](https://github.com/users/YeddaMC/projects/9/views/8?visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Assignees%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C%22Milestone%22%5D)
+* [RELATÓRIO DE REVIEW](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0_-REVIEW_-SPRINT_0)
+* [SÍNTESE DAS DAILYS](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0_Daily_SPRINT-0)
+
+---
+**Status da Sprint:** ✅ CONCLUÍDA
+**Total de Horas:** 14.5h
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 # ACHOU! 
 ## Plataforma digital georreferenciada voltada a economia de proximidade.
