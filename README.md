@@ -127,8 +127,11 @@ Plataforma mobile georreferenciada para economia hiperlocal que conecta consumid
 
 ## 4. Desenvolvimento
 [KANBAN](https://github.com/users/YeddaMC/projects/9/views/5 ) 
+
 [ROADMAP](https://github.com/users/YeddaMC/projects/9/views/7) 
-[TABELA](https://github.com/users/YeddaMC/projects/9/views/8?visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Assignees%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C%22Milestone%22%5D) 
+
+[TABELA](https://github.com/users/YeddaMC/projects/9/views/8?visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Assignees%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%2C%22Milestone%22%5D)
+
 
 * **Recursos:** [Tecnologias, Ferramentas, Linguagem, Hardware]
 * **Resultados Esperados:** [Performance e comportamento]
