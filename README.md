@@ -27,6 +27,7 @@ Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de
 * [SPRINT BACKLOG](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0_-SPRINT-_-BACKLOG)
 * [RELAÇÃO DE HISTÓRIAS DE USUÁRIO (US)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-RELA%C3%87%C3%83O-DE-HIST%C3%93RIAS-DE-USU%C3%81RIO-(US))
 * [MATRIZ DE RASTREABILIDADE](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-_-MATRIZ-DE-RASTREABILIDADE)
+* [MATRIZ DE RISCO](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-MATRIZ-DE-RISCO)
 * [DOCUMENTO VERSIONADO (V2.0)](https://github.com/YeddaMC/Yedda_Projeto_Interdisciplinar_1_GTI_4/wiki/0-%E2%80%90-VERSIONAMENTO_SPRINT_0)
 
 * [KANBAN](https://github.com/users/YeddaMC/projects/9/views/5)
