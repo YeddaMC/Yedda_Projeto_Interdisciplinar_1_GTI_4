@@ -140,7 +140,7 @@ Plataforma mobile georreferenciada para economia hiperlocal que conecta consumid
 
 ## 6. Gestão do Projeto
 * **Sequenciador:** [Contexto do MVP e incrementos]
-* **Kanban:** [Link para o board do Trello]
+## [KANBAN](## [Mapa de Empatia](https://github.com/YeddaMC/Yedda---Projeto-Integrador---GTI/wiki/MAPA-DE-EMPATIA))
 * **Cronograma:** [Datas de entregas do MVP e fases]
 * **Métricas:** [Indicadores de monitoração]
 
