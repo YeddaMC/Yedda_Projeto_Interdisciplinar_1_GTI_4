@@ -17,7 +17,7 @@ Yedda Maria Carvalhais
 
  📁 ENTREGAS SPRINT 0: ATUALIZAÇÃO E PLANEJAMENTO
 
-Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de fundação do projeto:
+Abaixo estão os links para os artefatos e documentos gerados durante o ciclo de atualização e planejamento do projeto:
 
 
 ### 📄 DOCUMENTAÇÃO E PLANEJAMENTO
