@@ -15,6 +15,10 @@ Yedda Maria Carvalhais
  SPRINT 2
  <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+📁 ENTREGAS SPRINT 2: T4, T6_(DETALHES, FORMULÁRIO DE ANÚNCIO) CRUD DE ANÚNCIOS, INTEGRAÇÃO CLOUDINARY E GEOLOCALIZAÇÃO (VIACEP/NOMINATIM).
+
+[versão 2.2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/2_-S2_-versionamento-2.2-%E2%80%90-ajuste-de-sprints-e-remodelagem-do-cronograma-%E2%80%90-build-web)
+
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
  SPRINT 1
