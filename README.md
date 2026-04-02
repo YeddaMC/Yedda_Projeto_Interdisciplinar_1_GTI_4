@@ -12,7 +12,7 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
- SPRINT 2
+ SPRINT 2 - DE 19 DE MARÇO À O2 DE ABRIL
  <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 📁 ENTREGAS SPRINT 2: T4, T6_(DETALHES, FORMULÁRIO DE ANÚNCIO) CRUD DE ANÚNCIOS, INTEGRAÇÃO CLOUDINARY E GEOLOCALIZAÇÃO (VIACEP/NOMINATIM).
@@ -25,7 +25,7 @@ Yedda Maria Carvalhais
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
- SPRINT 1
+ SPRINT 1 - DE 05 DE MARÇO À 19 DE MARÇO
  <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 📁 ENTREGAS SPRINT 1: T1,T2,T3,T5_(INICIAL,CADASTRO, LOGIN, GESTÃO DE PERFIL) TELAS, NAVEGAÇÃO, PERSITÊNCIA DE DADOS.
@@ -46,7 +46,7 @@ APS 01 - Modelo conceitual e lógico dos dados , TRADE OFF, VERSIONAMNETO
 
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
- SPRINT 0
+ SPRINT 0 - DE 19 DE FEVEREIRO À 05 DE MARÇO
  
 
  📁 ENTREGAS SPRINT 0: ATUALIZAÇÃO E PLANEJAMENTO
