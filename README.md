@@ -12,6 +12,14 @@ Yedda Maria Carvalhais
 📁  ENTREGAS
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+[TUTORIAL ‐ PDF DA CERIMONIA DE REVIEW DAS SPRINTS USANDO GITHUB PROJECTS] (https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/TUTORIAL--%E2%80%90-PDF-DA-CERIMONIA-DE-REVIEW-DAS-SPRINTS)
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
  SPRINT 2 - DE 19 DE MARÇO À O2 DE ABRIL
  <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
