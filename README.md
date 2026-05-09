@@ -13,6 +13,18 @@ Yedda Maria Carvalhais
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+SPRINT 4 - 02 DE ABRIL DE 2026  À 16 DE ABRIL DE 2026
+
+
+📁 ENTREGAS SPRINT 4 - GOVERNANÇA E MODERAÇÃO
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
+
+[REVIEW](LINK DA ISSUE DE REVIEW)
+
+<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
 SPRINT 3 - 02 DE ABRIL DE 2026  À 16 DE ABRIL DE 2026
 
 
