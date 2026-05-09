@@ -21,9 +21,6 @@ SPRINT 3 - 02 DE ABRIL DE 2026  À 16 DE ABRIL DE 2026
 
 [REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/issues/42)
 
-[IMAGENS](  ANEXAR)
-
-
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
