@@ -26,7 +26,7 @@ SPRINT 4 - 16 DE ABRIL DE 2026  À 30  DE ABRIL DE 2026
 OBS. (ENTREGA FORA DA DATA PREVISTA - REGIME DOMICILIAR - ATESTADO MÉDICO)
 
 
-<hr style="height:4px; border:none; color:#000; background-color:#000;">
+
 
 
 [REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/4_REVIEW-SPRINT_4)
