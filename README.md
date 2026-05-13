@@ -13,7 +13,7 @@ Yedda Maria Carvalhais
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
-📁  ENTREGA APS 2 _ PALNEJAMENTO DE EXTENSÃO _ SCITEC
+📁  ENTREGA APS 2 _ PLANEJAMENTO DE EXTENSÃO _ SCITEC
 [APS_2]()
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
