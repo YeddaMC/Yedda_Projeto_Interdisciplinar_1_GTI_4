@@ -13,17 +13,20 @@ Yedda Maria Carvalhais
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
+
+📁 ENTREGAS SPRINT 4 - GOVERNANÇA E MODERAÇÃO
+
 SPRINT 4 - 16 DE ABRIL DE 2026  À 30  DE ABRIL DE 2026 
 
 OBS. (ENTREGA FORA DA DATA PREVISTA - REGIME DOMICILIAR - ATESTADO MÉDICO)
 
 
-📁 ENTREGAS SPRINT 4 - GOVERNANÇA E MODERAÇÃO
-
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 
-[REVIEW](LINK DA ISSUE DE REVIEW)
+[REVIEW](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/4_REVIEW-SPRINT_4)
+
+[GRAVAÇÃO DE TELA ](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/GRAVA%C3%87%C3%83O-TELA-%E2%80%90-TESTE-USU%C3%81RIO-E-ADMIN)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
