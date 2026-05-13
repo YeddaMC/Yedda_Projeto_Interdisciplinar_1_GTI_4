@@ -14,7 +14,8 @@ Yedda Maria Carvalhais
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
 📁  ENTREGA APS 2 _ PLANEJAMENTO DE EXTENSÃO _ SCITEC
-[APS_2]()
+
+[APS_2](https://github.com/YeddaMC/ACHOU_Projeto_Interdisciplinar_2_GTI_5/wiki/APS-2-_-PLANEJAMENTO-DE-EXTENS%C3%83O-_-SCITEC-2026)
 
 <hr style="height:4px; border:none; color:#000; background-color:#000;">
 
